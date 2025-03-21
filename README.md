@@ -1,4 +1,4 @@
-# Git + GitHub As A Platform For Reproducible Research 
+# Dynamic Modeling of Cell Death: The Role of Death Ligand in Apoptosis
 
 ## Overview
 This repository sets out the skeleton of an organizational structure used for scientific research. It loosely follows what I have used for several of my research projects and I hope it inspires you to conduct your research in an open, reproducible, and honest manner.
